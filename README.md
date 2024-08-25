@@ -6,6 +6,22 @@ Now that this year's IPL is over, let's not curb our cricket love and start anal
 content :
 This dataset consists of two seperate CSV files : matches and deliveries. These files contain the information of each match summary and ball by ball details, respectively.
 
-![image](https://github.com/user-attachments/assets/9a34e66c-037d-4ac1-8d7e-c7516cceaf8a)
+Table of Contents
+
+Data Analysis:
+
+   1. Team Performance
+   2. Player Performance
+
+![image](https://github.com/user-attachments/assets/9370e806-1aad-4575-802d-8047a63687a6)
+![image](https://github.com/user-attachments/assets/eccc93bb-bb09-44aa-b62d-fa2124e76c95)
+![image](https://github.com/user-attachments/assets/d3fdc9e0-f630-476c-8525-5073e5745ed7)
+![image](https://github.com/user-attachments/assets/4f028b6b-f4ad-425f-9fa4-ba857d8bac36)
+![image](https://github.com/user-attachments/assets/f7b0106b-4a2b-418b-95b0-66919568a323)
+
+
+
+
+
 
 
