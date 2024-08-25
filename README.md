@@ -1,17 +1,10 @@
-# IPL Complete Dataset (2008-2024)
+About Dataset :
 
-This repository contains a comprehensive dataset of the Indian Premier League (IPL) from 2008 to 2024. The data includes details of matches, players, innings, ball-by-ball events, and season summaries.
+Context :
+Now that this year's IPL is over, let's not curb our cricket love and start analyzing the whole of IPL with this latest and complete Indian Premier League dataset. It contains the match descriptions, results, winners, player of the matches, ball by ball dataset and much more. So, stop thinking and start analyzing .
 
-## Files
+content :
+This dataset consists of two seperate CSV files : matches and deliveries. These files contain the information of each match summary and ball by ball details, respectively.
 
-- **matches.csv**: Contains details about each match, including teams, match result, and umpires.
-- **players.csv**: Contains statistics for players, including runs scored, wickets taken, and Man of the Match awards.
-- **innings.csv**: Contains data for each innings of the matches.
-- **ball_by_ball.csv**: Contains detailed ball-by-ball data.
-- **season_summary.csv**: Contains summary statistics for each IPL season.
 
-## Usage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/IPL-Complete-Dataset-2008-2024.git
